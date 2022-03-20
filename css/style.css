@@ -326,3 +326,64 @@ p {
     margin-bottom: 20px;
     height: 131px;
 } 
+
+/* Acordion */
+
+.perguntas {
+    margin-top: 100px;
+}
+
+.perguntas p {
+    color: #C0C0C0;
+    font-size: 18px;
+    line-height: 2.7;
+}
+
+.perguntas .txt-perguntas {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.perguntas .txt-perguntas h2 {
+    font-size: 40px;
+}
+
+.perguntas .accordion-button {
+    color: white;
+}
+
+.perguntas .accordion-item .accordion-header .accordion-button {
+    background-color: #13151D;
+    height: 78px;
+    border-radius: 0px;
+    font-size: 20px;
+}
+
+.perguntas #collapseOne {
+    background-color: #13151D;
+}
+
+.perguntas #collapseTwo {
+    background-color: #13151D;
+}
+
+.perguntas #collapseThree {
+    background-color: #13151D;
+}
+
+.perguntas .accordion-item {
+    border: none;
+    border-radius: 0px;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+
+footer {
+    margin-top: 100px;
+}
+
+footer img {
+    height: 44px;
+    width: 80px;
+}
